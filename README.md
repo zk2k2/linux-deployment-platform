@@ -50,7 +50,7 @@ Ensure you have the following installed on your system:
     root@/edubox/vm_backend/Api# flask --app api.py run --host=0.0.0.0
     ```
 
-This setup will get EduBox up and running on your local machine, allowing you to deploy and manage Virtual Machines for educational purposes. If you encounter any issues, please refer to the documentation or contact our support team.
+This setup will get EduBox up and running on your local machine, allowing you to deploy and manage Linux environments for educational purposes. If you encounter any issues, please refer to the documentation or contact our team.
 
 ## 🤝 Contributing
 We welcome contributions to improve EduBox! Please fork the repository and submit pull requests for review.
