@@ -1,4 +1,4 @@
-# 📦 EduBox
+# 📦 EduBox: The Linux Deployment Platform!
 
 
 
