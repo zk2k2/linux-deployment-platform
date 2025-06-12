@@ -1,4 +1,5 @@
 # 📦 EduBox, The Linux Deployment Platform! 
+![EduBox](https://github.com/user-attachments/assets/d05b38e2-a492-47e7-9e11-1df66947d03e)
 
 
 EduBox is a platform designed and implemented for the automated deployment of containerized Linux environments with a noVNC desktop interface, enabling users to learn Linux and run code in Python, Node.js, Java, and more.
