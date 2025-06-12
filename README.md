@@ -2,7 +2,7 @@
 
 <div align="center">
   <br>
-  <img src="https://github.com/user-attachments/assets/d05b38e2-a492-47e7-9e11-1df66947d03e" alt="EduBox" width="200">
+  <img src="https://github.com/user-attachments/assets/d05b38e2-a492-47e7-9e11-1df66947d03e" alt="EduBox" width="400">
   <br><br>
 </div>
 
