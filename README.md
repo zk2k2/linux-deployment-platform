@@ -1,4 +1,15 @@
-# 📦 EduBox, The Linux Deployment Platform! 
+<!-- PROJECT SHIELDS -->
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+<a id="readme-top"></a>
+
+
+# EduBox, The Linux Deployment Platform! 
 
 <div align="center">
   <br>
@@ -68,3 +79,19 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 For more information, please contact me via email.
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+[contributors-shield]: https://img.shields.io/github/contributors/zk2k2/edubox.svg?style=for-the-badge
+[contributors-url]: https://github.com/zk2k2/edubox/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/zk2k2/edubox.svg?style=for-the-badge
+[forks-url]: https://github.com/zk2k2/edubox/network/members
+[stars-shield]: https://img.shields.io/github/stars/zk2k2/edubox.svg?style=for-the-badge
+[stars-url]: https://github.com/zk2k2/edubox/stargazers
+[issues-shield]: https://img.shields.io/github/issues/zk2k2/edubox.svg?style=for-the-badge
+[issues-url]: https://github.com/zk2k2/edubox/issues
+[license-shield]: https://img.shields.io/github/license/zk2k2/edubox.svg?style=for-the-badge
+[license-url]: https://github.com/zk2k2/edubox/blob/main/LICENSE
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/zied-kharrat
+
